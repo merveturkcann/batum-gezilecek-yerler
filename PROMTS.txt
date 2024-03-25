@@ -1,0 +1,62 @@
+WEB SİTESİ GENEL ŞABLON VE DÜZENLEME İÇİN "CHAT GPT" KULLANILMIŞTIR, GÖRSELLERİN OLUŞTURULMASI İÇİN İSE "OPENART.AI" KULLANILMIŞTIR.
+
+WEB SİTESİ PROMTLARI SIRASIYLA
+1- WEB SİTESİ GENEL ŞABLON KURALI İÇİN 2 PROMT KULLANILMIŞTIR.
+A.
+Bir ön web geliştiricisi olarak çalışmanızı istiyorum
+Merhaba Chatgpt
+Proje için şu araçları kullanarak yeni bir web sitesi kodlayacaksınız:
+HTML,CSS için CDN'yi kullanan bootstrap çerçevesi ve Javascript.
+Web sitesi mobile uyumlu ve duyarlı olmalıdır.
+Ayrıca düzen ve stil açısından site yapısında Twitter Bootstrap CSS sınıflarının en son sürümünü de içermelidir.
+HTML,CSS ve javascript kodlarını ayrı çıktılar olarak vermen önemlidir.
+Ayrıca sayfa içeriğindeki başlıklara dahili bağlatılar içeren bir gezinme menüsü de eklemelisiniz.
+Yazdığınız kodların hiçbirine açıklama yapmayın.
+Her şeyi anlıyor musun?
+Tüm gereklilikleri anlıyorsanız lütfen evet veya hayır şeklinde yanıt verin
+
+B.
+websitem bir porfolio galeri websitesi ve burada Batum'da gezilecek yer önerilerini paylaşmak istiyorum websitemde bulunmasını istediğim etiketler (header, main, nav, section, article, aside, footer) şeklindedir.
+bana bu websitesini oluşturmamda yardımcı olur musun ?
+_____________________________________________________________________________
+
+2-LOGO VE GÖRSELLER HİZALAMA İÇİN PROMT
+A.
+bir görseli web sayfasının logosu olarak sağ üst köşeye sabit olarak 45x45 boyutlarında nasıl html olarak eklerim
+
+B.
+html de fotoğraf ekleyip ölçü vererek satırın ortasında göstermek
+
+_____________________________________________________________________________
+
+3- TARİH SATIRI BİLGİSİ PROMTS
+
+Batum'da gezilecek turistik yerler ve tarihi hakkında bilgiler
+_____________________________________________________________________________
+
+4-İLETİŞİM SATIRI BİLGİSİ PROMTS
+https://www.linkedin.com/in/merve-türkcan/ linkini html linki olarak yazar mısın
+
+
+
+____________________________________________________________________________
+
+GÖRSELLERİN OLUŞTURULMASI İÇİN PROMTSLAR SIRASIYLA
+
+**LOGO**
+Vibrant digital painting of Batumi Piazza Meydanı, rich with colorful lights and architectural details, high quality, detailed, digital painting, vibrant colors, architectural beauty, bustling with activity, lively atmosphere, ornate design, warm and inviting lighting, bustling square, busy nightlife, modern, picturesque, stunning architecture
+
+1.FOTOĞRAF
+Realistic digital painting of Batumi Ali and Nino sculpture, bronze texture, dynamic pose, intricate details, high quality, realistic, bronze tones, dramatic lighting
+2.FOTOĞRAF
+Vibrant digital illustration of Batumi Europe Square, bustling with activity, warm and vivid color palette, intricate architectural details, lively atmosphere, high quality, digital painting, colorful, detailed, bustling, warm tones, architectural details, lively atmosphere, professional, vibrant lighting
+
+3.FOTOĞRAF
+Vibrant digital illustration of Batum Botanik Bahçesi, lush greenery with colorful blossoms, intricate details of exotic flowers and foliage, 4k ultra-detailed, botanical illustration, vivid and rich colors, natural sunlight filtering through the canopy, lively and immersive, highres, detailed botanicals, professional, vibrant lighting
+
+4.FOTOĞRAF
+Snow-covered ancient city of Batumi, oil painting, historic architecture, majestic mountains in the background, rich texture on buildings, vibrant colors, warm and soft lighting, high quality, oil painting, ancient, snow-covered, historic architecture, majestic mountains, rich texture, vibrant colors, warm lighting
+
+5.FOTOĞRAF
+Snow-covered ancient city of Batumi, oil painting, historic architecture, majestic mountains in the background, rich texture on buildings, vibrant colors, warm and soft lighting, high quality, oil painting, ancient, snow-covered, historic architecture, majestic mountains, rich texture, vibrant colors, warm lighting
+
